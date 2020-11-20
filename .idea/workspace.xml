@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9cff1ee-ad1b-48c4-9c3c-ce88a4d47829" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../taotao\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven" />
+        <option name="mavenHome" value="F:\apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kTsW9sSFTWzly1iY2chbvwsvfm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/taotao/taotao-manager/taotao-manager-web/src/main/webapp/WEB-INF/jsp/item_add.jsp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/webapp/WEB-INF/jsp" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\taotao\taotao-manager\taotao-manager-web\src\main\webapp" />
+      <recent name="F:\taotao\taotao-portal\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.portal.service" />
+      <recent name="com.taotao.pojo" />
+      <recent name="com.taotao.service.impl" />
+      <recent name="com.sso.service" />
+      <recent name="com.sso.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\taotao\taotao-manager\taotao-manager-web\src\main\webapp\WEB-INF\jsp" />
+      <recent name="E:\taotao\taotao-manager\taotao-manager-web\src\main\resources\spring" />
+      <recent name="E:\taotao\taotao-manager\taotao-manager-web\src\main\webapp\WEB-INF" />
+      <recent name="E:\taotao\taotao-manager\taotao-manager-web\src\main\webapp\WEB-INF\html" />
+      <recent name="E:\taotao\taotao-manager\taotao-manager-web\src\main\webapp\WEB-INF\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.8080-manager-后台管理">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="8080-manager-后台管理" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="8081-rest-总的服务端" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-rest" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="8082-portal-前台" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-portal" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="8083-search-搜索服务" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-search" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="8084-sso-单点登录" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-sso" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="8085-order-订单服务" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-order" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.8080-manager-后台管理" />
+      <item itemvalue="Maven.8082-portal-前台" />
+      <item itemvalue="Maven.8085-order-订单服务" />
+      <item itemvalue="Maven.8083-search-搜索服务" />
+      <item itemvalue="Maven.8084-sso-单点登录" />
+      <item itemvalue="Maven.8081-rest-总的服务端" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9cff1ee-ad1b-48c4-9c3c-ce88a4d47829" name="Default" comment="" />
+      <created>1574817310499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574817310499</updated>
+      <workItem from="1574817321635" duration="8537000" />
+      <workItem from="1574938080751" duration="595000" />
+      <workItem from="1574940286077" duration="1275000" />
+      <workItem from="1575005676759" duration="2437000" />
+      <workItem from="1575008477287" duration="7760000" />
+      <workItem from="1575091635978" duration="9889000" />
+      <workItem from="1575265301292" duration="300000" />
+      <workItem from="1575332744069" duration="8241000" />
+      <workItem from="1575418880592" duration="8388000" />
+      <workItem from="1575432914954" duration="848000" />
+      <workItem from="1575437954299" duration="371000" />
+      <workItem from="1575610096767" duration="12105000" />
+      <workItem from="1575976284296" duration="8298000" />
+      <workItem from="1576042755087" duration="70000" />
+      <workItem from="1576043287279" duration="6822000" />
+      <workItem from="1576130633536" duration="9716000" />
+      <workItem from="1576149287507" duration="2105000" />
+      <workItem from="1576208394982" duration="231000" />
+      <workItem from="1576209652418" duration="34000" />
+      <workItem from="1576215445670" duration="2688000" />
+      <workItem from="1576219564409" duration="6261000" />
+      <workItem from="1576393422364" duration="4084000" />
+      <workItem from="1576501132996" duration="4384000" />
+      <workItem from="1576542434122" duration="6253000" />
+      <workItem from="1576583149108" duration="624000" />
+      <workItem from="1576584357163" duration="4289000" />
+      <workItem from="1576628269379" duration="10234000" />
+      <workItem from="1576807806224" duration="598000" />
+      <workItem from="1576813135660" duration="932000" />
+      <workItem from="1576814411133" duration="11084000" />
+      <workItem from="1576829528298" duration="2899000" />
+      <workItem from="1576833453065" duration="3088000" />
+      <workItem from="1576888507661" duration="14991000" />
+      <workItem from="1577147466420" duration="6197000" />
+      <workItem from="1577234174908" duration="2399000" />
+      <workItem from="1577243391071" duration="3627000" />
+      <workItem from="1577252172133" duration="5142000" />
+      <workItem from="1577323208513" duration="6756000" />
+      <workItem from="1577415474413" duration="5968000" />
+      <workItem from="1577591572161" duration="1816000" />
+      <workItem from="1577672693429" duration="31123000" />
+      <workItem from="1577928886373" duration="369000" />
+      <workItem from="1577936225157" duration="2393000" />
+      <workItem from="1578012721232" duration="23334000" />
+      <workItem from="1578115336553" duration="1148000" />
+      <workItem from="1578118616533" duration="236000" />
+      <workItem from="1578118977286" duration="8155000" />
+      <workItem from="1578197554839" duration="18424000" />
+      <workItem from="1578271728278" duration="19745000" />
+      <workItem from="1578358517183" duration="2603000" />
+      <workItem from="1578362515239" duration="12257000" />
+      <workItem from="1578392026023" duration="1403000" />
+      <workItem from="1578610497295" duration="393000" />
+      <workItem from="1578612803030" duration="16545000" />
+      <workItem from="1578702863882" duration="31992000" />
+      <workItem from="1578798372313" duration="559000" />
+      <workItem from="1578799521545" duration="16526000" />
+      <workItem from="1578832894694" duration="1195000" />
+      <workItem from="1578839015005" duration="11546000" />
+      <workItem from="1578879644224" duration="1280000" />
+      <workItem from="1579246876126" duration="752000" />
+      <workItem from="1580105732432" duration="603000" />
+      <workItem from="1580108848211" duration="20093000" />
+      <workItem from="1580194213299" duration="5528000" />
+      <workItem from="1580540782390" duration="7000" />
+      <workItem from="1580541000597" duration="4000" />
+      <workItem from="1580820431373" duration="1391000" />
+      <workItem from="1580825578328" duration="651000" />
+      <workItem from="1580952311264" duration="91000" />
+      <workItem from="1580977766696" duration="3227000" />
+      <workItem from="1582183567113" duration="1233000" />
+      <workItem from="1582184920985" duration="14931000" />
+      <workItem from="1582271955864" duration="1198000" />
+      <workItem from="1582333524668" duration="518000" />
+      <workItem from="1582356281303" duration="8422000" />
+      <workItem from="1582432201527" duration="2386000" />
+      <workItem from="1582442805772" duration="853000" />
+      <workItem from="1582446341456" duration="6393000" />
+      <workItem from="1582520380073" duration="4640000" />
+      <workItem from="1582617062704" duration="1745000" />
+      <workItem from="1582630341719" duration="585000" />
+      <workItem from="1582957309316" duration="3214000" />
+      <workItem from="1587081070326" duration="1906000" />
+      <workItem from="1587609861615" duration="226000" />
+      <workItem from="1587614018948" duration="1269000" />
+      <workItem from="1605735946674" duration="2533000" />
+      <workItem from="1605751125675" duration="778000" />
+      <workItem from="1605771879176" duration="1233000" />
+      <workItem from="1605821214912" duration="2929000" />
+      <workItem from="1605837472564" duration="9675000" />
+      <workItem from="1605856959004" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../WareHouse" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1605852309072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605852309072" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605844334721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605844334721" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605856675586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605856675586" />
+    <state width="1493" height="179" key="GridCell.Tab.0.bottom" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state width="1493" height="179" key="GridCell.Tab.0.center" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state width="1493" height="179" key="GridCell.Tab.0.left" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state width="1493" height="179" key="GridCell.Tab.0.right" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state width="1493" height="179" key="GridCell.Tab.1.bottom" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state width="1493" height="179" key="GridCell.Tab.1.center" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state width="1493" height="179" key="GridCell.Tab.1.left" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state width="1493" height="179" key="GridCell.Tab.1.right" timestamp="1605856951333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605856951333" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1605857012500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605857012500" />
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605856936554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605856936554" />
+    <state x="468" y="144" width="638" height="536" key="find.popup" timestamp="1605856655663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="144" width="638" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1605856655663" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1605841969241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605841969241" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605856660083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605856660083" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/webapp/WEB-INF/jsp/login1.jsp</url>
+          <line>26</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="tlist.status.value" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>tlist.status.value</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
